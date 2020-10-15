@@ -1,0 +1,8 @@
+BrightTag.site('81OUFrt',function(s){
+s.script('https://s.yimg.jp/images/listing/tool/cv/ytag.js').wait(function(){
+s.domready(function(){
+s.tag('\x3c!-- YDN_RTG_Tag NL --\x3e\n\x3cscript type\x3d\x22text/javascript\x22 language\x3d\x22javascript\x22\x3e\n/* \x3c![CDATA[ */\nvar yahoo_retargeting_id \x3d \x27N7FKRSQ672\x27;\nvar yahoo_retargeting_label \x3d \x27\x27;\nvar yahoo_retargeting_page_type \x3d \x27\x27;\nvar yahoo_retargeting_items \x3d [{item_id: \x27\x27, category_id: \x27\x27, price: \x27\x27, quantity: \x27\x27}];\n/* ]]\x3e */\n\x3c/script\x3e\n\x3cscript type\x3d\x22text/javascript\x22 language\x3d\x22javascript\x22 src\x3d\x22//b92.yahoo.co.jp/js/s_retargeting.js\x22\x3e\x3c/script\x3e\n\x3c!-- /YDN_RTG_Tag NL --\x3e\n',{tagId:5085510});
+s.tag('\x3cscript type\x3d\x22text/javascript\x22\x3e\n        window.yjDataLayer\x3d window.yjDataLayer|| [];\n      function ytag() { yjDataLayer.push(arguments); }\n\n        ytag({\n        \x22type\x22:\x22yjad_retargeting\x22,\n        \x22config\x22:{\n          \x22yahoo_retargeting_id\x22: "3Z9OUC57GS",\n          \x22yahoo_retargeting_label\x22: \x27\x27,\n          \x22yahoo_retargeting_page_type\x22: \x27\x27,\n          \x22yahoo_retargeting_items\x22: BrightTag.Util.map([{item_id: \x27\x27, category_id: \x27\x27, price: \x27\x27, quantity: \x27\x27}], function(item) {\n            return {\n              item_id: item[\x27\x27],\n              category_id: item[\x27\x27],\n              price: item[\x27\x27],\n              quantity: item[\x27\x27]\n            }\n          })\n        }\n      });\n      \x3c/script\x3e',{tagId:5562080});
+});
+});
+});
